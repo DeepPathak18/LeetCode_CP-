@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0057-insert-interval](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0057-insert-interval) |
 | [1122-relative-sort-array](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1122-relative-sort-array) |
 ## Hash Table
 |  |
