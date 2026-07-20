@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0566-reshape-the-matrix) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1122-relative-sort-array](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1122-relative-sort-array) |
+| [1260-shift-2d-grid](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0566-reshape-the-matrix) |
+| [1260-shift-2d-grid](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0566-reshape-the-matrix) |
+| [1260-shift-2d-grid](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1260-shift-2d-grid) |
 ## Stack
 |  |
 | ------- |
