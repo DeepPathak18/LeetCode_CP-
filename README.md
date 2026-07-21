@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0057-insert-interval](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0057-insert-interval) |
+| [0260-single-number-iii](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0260-single-number-iii) |
 | [0435-non-overlapping-intervals](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0435-non-overlapping-intervals) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0566-reshape-the-matrix](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0566-reshape-the-matrix) |
@@ -80,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0581-shortest-unsorted-continuous-subarray) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0260-single-number-iii](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0260-single-number-iii) |
 <!---LeetCode Topics End-->
