@@ -110,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0021-merge-two-sorted-lists) |
+## String
+|  |
+| ------- |
+| [0830-positions-of-large-groups](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0830-positions-of-large-groups) |
 <!---LeetCode Topics End-->
