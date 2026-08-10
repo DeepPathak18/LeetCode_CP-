@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0234-palindrome-linked-list](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0234-palindrome-linked-list) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0832-flipping-an-image](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0832-flipping-an-image) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0234-palindrome-linked-list) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0735-asteroid-collision](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0735-asteroid-collision) |
 ## Monotonic Stack
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0021-merge-two-sorted-lists) |
 | [0092-reverse-linked-list-ii](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0092-reverse-linked-list-ii) |
 | [0206-reverse-linked-list](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0328-odd-even-linked-list) |
 ## Recursion
@@ -136,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0234-palindrome-linked-list) |
 ## String
 |  |
 | ------- |
