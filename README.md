@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0057-insert-interval](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0057-insert-interval) |
+| [0137-single-number-ii](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0260-single-number-iii) |
 | [0435-non-overlapping-intervals](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0435-non-overlapping-intervals) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0260-single-number-iii) |
 | [0832-flipping-an-image](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0832-flipping-an-image) |
 | [1386-cinema-seat-allocation](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1386-cinema-seat-allocation) |
