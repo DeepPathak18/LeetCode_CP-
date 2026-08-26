@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0922-sort-array-by-parity-ii) |
 | [0989-add-to-array-form-of-integer](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0989-add-to-array-form-of-integer) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1122-relative-sort-array](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1122-relative-sort-array) |
 | [1260-shift-2d-grid](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1260-shift-2d-grid) |
 | [1386-cinema-seat-allocation](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1386-cinema-seat-allocation) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0435-non-overlapping-intervals) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1386-cinema-seat-allocation](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1386-cinema-seat-allocation) |
 ## Two Pointers
 |  |
