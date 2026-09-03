@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0394-decode-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0735-asteroid-collision](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0735-asteroid-collision) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0647-palindromic-substrings) |
 | [0830-positions-of-large-groups](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0830-positions-of-large-groups) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Enumeration
 |  |
 | ------- |
