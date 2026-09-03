@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1122-relative-sort-array) |
 | [1184-distance-between-bus-stops](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1184-distance-between-bus-stops) |
+| [1200-minimum-absolute-difference](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1200-minimum-absolute-difference) |
 | [1260-shift-2d-grid](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1260-shift-2d-grid) |
 | [1386-cinema-seat-allocation](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1386-cinema-seat-allocation) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0922-sort-array-by-parity-ii) |
 | [1051-height-checker](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1122-relative-sort-array) |
+| [1200-minimum-absolute-difference](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1200-minimum-absolute-difference) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/3731-find-missing-elements) |
