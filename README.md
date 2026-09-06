@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1184-distance-between-bus-stops](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1184-distance-between-bus-stops) |
 | [1200-minimum-absolute-difference](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1200-minimum-absolute-difference) |
 | [1260-shift-2d-grid](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1260-shift-2d-grid) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1386-cinema-seat-allocation](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1386-cinema-seat-allocation) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1200-minimum-absolute-difference) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/3731-find-missing-elements) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0532-k-diff-pairs-in-an-array](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0793-preimage-size-of-factorial-zeroes-function](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0793-preimage-size-of-factorial-zeroes-function) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Matrix
 |  |
 | ------- |
@@ -139,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1260-shift-2d-grid) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Stack
 |  |
 | ------- |
@@ -163,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Linked List
 |  |
