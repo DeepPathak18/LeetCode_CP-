@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1386-cinema-seat-allocation](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1386-cinema-seat-allocation) |
 | [1389-create-target-array-in-the-given-order](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1389-create-target-array-in-the-given-order) |
+| [1403-minimum-subsequence-in-non-increasing-order](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1200-minimum-absolute-difference) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1403-minimum-subsequence-in-non-increasing-order](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/3731-find-missing-elements) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1386-cinema-seat-allocation](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1386-cinema-seat-allocation) |
+| [1403-minimum-subsequence-in-non-increasing-order](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 ## Two Pointers
 |  |
 | ------- |
