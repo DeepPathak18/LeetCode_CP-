@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0057-insert-interval](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0057-insert-interval) |
 | [0090-subsets-ii](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0260-single-number-iii) |
 | [0435-non-overlapping-intervals](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0435-non-overlapping-intervals) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0260-single-number-iii) |
 | [0832-flipping-an-image](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0832-flipping-an-image) |
