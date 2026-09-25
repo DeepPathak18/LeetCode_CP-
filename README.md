@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0058-length-of-last-word) |
 | [0387-first-unique-character-in-a-string](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0424-longest-repeating-character-replacement) |
