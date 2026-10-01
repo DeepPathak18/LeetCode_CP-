@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0793-preimage-size-of-factorial-zeroes-function](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0793-preimage-size-of-factorial-zeroes-function) |
 | [0836-rectangle-overlap](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0836-rectangle-overlap) |
 | [0989-add-to-array-form-of-integer](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0989-add-to-array-form-of-integer) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0647-palindromic-substrings) |
 | [0830-positions-of-large-groups](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0830-positions-of-large-groups) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Enumeration
@@ -277,4 +279,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0204-count-primes) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
