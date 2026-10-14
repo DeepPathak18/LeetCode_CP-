@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0836-rectangle-overlap) |
 | [0989-add-to-array-form-of-integer](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0989-add-to-array-form-of-integer) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1518-water-bottles](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1518-water-bottles) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1260-shift-2d-grid) |
 | [1389-create-target-array-in-the-given-order](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1389-create-target-array-in-the-given-order) |
+| [1518-water-bottles](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1518-water-bottles) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
