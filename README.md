@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0202-happy-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0062-unique-paths) |
 | [0149-max-points-on-a-line](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0149-max-points-on-a-line) |
+| [0202-happy-number](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0263-ugly-number) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0234-palindrome-linked-list) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0567-permutation-in-string](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0567-permutation-in-string) |
@@ -306,4 +309,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0062-unique-paths) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
