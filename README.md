@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0989-add-to-array-form-of-integer) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1323-maximum-69-number](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1323-maximum-69-number) |
 | [1518-water-bottles](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1518-water-bottles) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0435-non-overlapping-intervals) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
+| [1323-maximum-69-number](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1323-maximum-69-number) |
 | [1386-cinema-seat-allocation](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1386-cinema-seat-allocation) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 ## Two Pointers
