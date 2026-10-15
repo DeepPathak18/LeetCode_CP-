@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0263-ugly-number) |
 | [0343-integer-break](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0343-integer-break) |
+| [0412-fizz-buzz](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0793-preimage-size-of-factorial-zeroes-function](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0793-preimage-size-of-factorial-zeroes-function) |
 | [0836-rectangle-overlap](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0836-rectangle-overlap) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0412-fizz-buzz) |
 | [0566-reshape-the-matrix](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0566-reshape-the-matrix) |
 | [0735-asteroid-collision](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0735-asteroid-collision) |
 | [0832-flipping-an-image](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0832-flipping-an-image) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0058-length-of-last-word) |
 | [0387-first-unique-character-in-a-string](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0394-decode-string) |
+| [0412-fizz-buzz](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0567-permutation-in-string) |
