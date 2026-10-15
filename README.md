@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0062-unique-paths) |
 | [0149-max-points-on-a-line](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0149-max-points-on-a-line) |
 | [0204-count-primes](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0263-ugly-number) |
 | [0343-integer-break](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0343-integer-break) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0628-maximum-product-of-three-numbers) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0258-add-digits) |
 | [0566-reshape-the-matrix](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0566-reshape-the-matrix) |
 | [0735-asteroid-collision](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0735-asteroid-collision) |
 | [0832-flipping-an-image](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0832-flipping-an-image) |
