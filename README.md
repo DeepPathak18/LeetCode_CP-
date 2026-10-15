@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0149-max-points-on-a-line) |
 | [0202-happy-number](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0263-ugly-number) |
 | [0343-integer-break](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0343-integer-break) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0137-single-number-ii) |
+| [0231-power-of-two](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0260-single-number-iii) |
 | [0832-flipping-an-image](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0832-flipping-an-image) |
 | [1386-cinema-seat-allocation](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1386-cinema-seat-allocation) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0394-decode-string) |
 | [3483-unique-3-digit-even-numbers](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/3483-unique-3-digit-even-numbers) |
