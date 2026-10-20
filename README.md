@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0836-rectangle-overlap) |
 | [0989-add-to-array-form-of-integer](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0989-add-to-array-form-of-integer) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1201-ugly-number-iii](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1201-ugly-number-iii) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1323-maximum-69-number](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1323-maximum-69-number) |
 | [1518-water-bottles](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1518-water-bottles) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0258-add-digits) |
+| [1201-ugly-number-iii](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1201-ugly-number-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0532-k-diff-pairs-in-an-array](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0793-preimage-size-of-factorial-zeroes-function](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0793-preimage-size-of-factorial-zeroes-function) |
+| [1201-ugly-number-iii](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1201-ugly-number-iii) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Matrix
@@ -319,17 +322,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0149-max-points-on-a-line) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1201-ugly-number-iii](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1201-ugly-number-iii) |
 ## Greatest Common Divisor
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0149-max-points-on-a-line) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1201-ugly-number-iii](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1201-ugly-number-iii) |
 ## Combinatorics
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0062-unique-paths) |
+| [1201-ugly-number-iii](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1201-ugly-number-iii) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0202-happy-number) |
+## Least Common Multiple
+|  |
+| ------- |
+| [1201-ugly-number-iii](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1201-ugly-number-iii) |
+## Inclusion-Exclusion Principle
+|  |
+| ------- |
+| [1201-ugly-number-iii](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1201-ugly-number-iii) |
 <!---LeetCode Topics End-->
