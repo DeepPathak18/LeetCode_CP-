@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0264-ugly-number-ii) |
 | [0292-nim-game](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0343-integer-break) |
 | [0412-fizz-buzz](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0507-perfect-number) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0260-single-number-iii) |
+| [0342-power-of-four](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0342-power-of-four) |
 | [0832-flipping-an-image](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0832-flipping-an-image) |
 | [1386-cinema-seat-allocation](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1386-cinema-seat-allocation) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0394-decode-string) |
 | [3483-unique-3-digit-even-numbers](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/3483-unique-3-digit-even-numbers) |
 ## String
