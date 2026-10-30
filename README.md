@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1323-maximum-69-number](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1323-maximum-69-number) |
 | [1518-water-bottles](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1518-water-bottles) |
+| [1922-count-good-numbers](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0394-decode-string) |
+| [1922-count-good-numbers](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1922-count-good-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/3483-unique-3-digit-even-numbers) |
 ## String
 |  |
