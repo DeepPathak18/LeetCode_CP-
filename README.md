@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0867-transpose-matrix) |
+| [0881-boats-to-save-people](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0881-boats-to-save-people) |
 | [0896-monotonic-array](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0922-sort-array-by-parity-ii) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0628-maximum-product-of-three-numbers) |
+| [0881-boats-to-save-people](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0922-sort-array-by-parity-ii) |
 | [1051-height-checker](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1051-height-checker) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0435-non-overlapping-intervals) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0881-boats-to-save-people](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0881-boats-to-save-people) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1323-maximum-69-number](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1323-maximum-69-number) |
 | [1386-cinema-seat-allocation](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1386-cinema-seat-allocation) |
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0647-palindromic-substrings](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0647-palindromic-substrings) |
 | [0832-flipping-an-image](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0832-flipping-an-image) |
+| [0881-boats-to-save-people](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0922-sort-array-by-parity-ii) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -406,4 +410,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0207-course-schedule) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
