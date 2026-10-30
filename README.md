@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1200-minimum-absolute-difference) |
 | [1260-shift-2d-grid](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1260-shift-2d-grid) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1386-cinema-seat-allocation](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1386-cinema-seat-allocation) |
 | [1389-create-target-array-in-the-given-order](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1389-create-target-array-in-the-given-order) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1200-minimum-absolute-difference) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0881-boats-to-save-people) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1323-maximum-69-number](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1323-maximum-69-number) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1386-cinema-seat-allocation](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1386-cinema-seat-allocation) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 ## Two Pointers
@@ -240,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0264-ugly-number-ii](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0264-ugly-number-ii) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Linked List
 |  |
