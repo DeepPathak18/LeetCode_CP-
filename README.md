@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1389-create-target-array-in-the-given-order](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1389-create-target-array-in-the-given-order) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1652-defuse-the-bomb](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1652-defuse-the-bomb) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0567-permutation-in-string) |
+| [1652-defuse-the-bomb](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1652-defuse-the-bomb) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Backtracking
 |  |
