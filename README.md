@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0567-permutation-in-string) |
 | [1122-relative-sort-array](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1122-relative-sort-array) |
 | [1386-cinema-seat-allocation](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1386-cinema-seat-allocation) |
+| [1542-find-longest-awesome-substring](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1542-find-longest-awesome-substring) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3483-unique-3-digit-even-numbers](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/3483-unique-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/3731-find-missing-elements) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0832-flipping-an-image](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0832-flipping-an-image) |
 | [1386-cinema-seat-allocation](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1386-cinema-seat-allocation) |
+| [1542-find-longest-awesome-substring](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1542-find-longest-awesome-substring) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Heap (Priority Queue)
 |  |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1542-find-longest-awesome-substring](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1542-find-longest-awesome-substring) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Enumeration
 |  |
