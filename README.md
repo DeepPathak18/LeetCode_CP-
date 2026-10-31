@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0441-arranging-coins) |
+| [0492-construct-the-rectangle](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0492-construct-the-rectangle) |
 | [0507-perfect-number](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0793-preimage-size-of-factorial-zeroes-function](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0793-preimage-size-of-factorial-zeroes-function) |
