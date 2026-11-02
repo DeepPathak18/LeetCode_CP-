@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1652-defuse-the-bomb](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1652-defuse-the-bomb) |
+| [1735-count-ways-to-make-array-with-product](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1735-count-ways-to-make-array-with-product) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1323-maximum-69-number](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1323-maximum-69-number) |
 | [1518-water-bottles](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1518-water-bottles) |
+| [1735-count-ways-to-make-array-with-product](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1735-count-ways-to-make-array-with-product) |
 | [1922-count-good-numbers](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0258-add-digits) |
 | [1201-ugly-number-iii](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1201-ugly-number-iii) |
+| [1735-count-ways-to-make-array-with-product](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1735-count-ways-to-make-array-with-product) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0343-integer-break](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0343-integer-break) |
 | [0435-non-overlapping-intervals](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0435-non-overlapping-intervals) |
 | [0647-palindromic-substrings](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0647-palindromic-substrings) |
+| [1735-count-ways-to-make-array-with-product](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1735-count-ways-to-make-array-with-product) |
 ## Greedy
 |  |
 | ------- |
@@ -371,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0062-unique-paths) |
 | [1201-ugly-number-iii](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1201-ugly-number-iii) |
+| [1735-count-ways-to-make-array-with-product](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1735-count-ways-to-make-array-with-product) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -439,4 +444,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0470-implement-rand10-using-rand7](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0470-implement-rand10-using-rand7) |
+## Prime Factorization
+|  |
+| ------- |
+| [1735-count-ways-to-make-array-with-product](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1735-count-ways-to-make-array-with-product) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1735-count-ways-to-make-array-with-product](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1735-count-ways-to-make-array-with-product) |
 <!---LeetCode Topics End-->
