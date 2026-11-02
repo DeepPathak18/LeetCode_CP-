@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0441-arranging-coins) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0470-implement-rand10-using-rand7](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0470-implement-rand10-using-rand7) |
 | [0492-construct-the-rectangle](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0492-construct-the-rectangle) |
 | [0507-perfect-number](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0628-maximum-product-of-three-numbers) |
@@ -426,4 +427,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0881-boats-to-save-people) |
+## Rejection Sampling
+|  |
+| ------- |
+| [0470-implement-rand10-using-rand7](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0470-implement-rand10-using-rand7) |
+## Randomized
+|  |
+| ------- |
+| [0470-implement-rand10-using-rand7](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0470-implement-rand10-using-rand7) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0470-implement-rand10-using-rand7](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0470-implement-rand10-using-rand7) |
 <!---LeetCode Topics End-->
