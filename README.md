@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0566-reshape-the-matrix](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0566-reshape-the-matrix) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0598-range-addition-ii](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0735-asteroid-collision](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0735-asteroid-collision) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0492-construct-the-rectangle](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0492-construct-the-rectangle) |
 | [0507-perfect-number](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0509-fibonacci-number) |
+| [0598-range-addition-ii](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0793-preimage-size-of-factorial-zeroes-function](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0793-preimage-size-of-factorial-zeroes-function) |
 | [0836-rectangle-overlap](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0836-rectangle-overlap) |
