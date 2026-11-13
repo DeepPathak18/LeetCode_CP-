@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3483-unique-3-digit-even-numbers](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/3483-unique-3-digit-even-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3731-find-missing-elements](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/3731-find-missing-elements) |
