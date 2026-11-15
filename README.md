@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0509-fibonacci-number) |
 | [0598-range-addition-ii](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0628-maximum-product-of-three-numbers) |
+| [0728-self-dividing-numbers](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0728-self-dividing-numbers) |
 | [0793-preimage-size-of-factorial-zeroes-function](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0793-preimage-size-of-factorial-zeroes-function) |
 | [0836-rectangle-overlap](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0836-rectangle-overlap) |
 | [0989-add-to-array-form-of-integer](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0989-add-to-array-form-of-integer) |
