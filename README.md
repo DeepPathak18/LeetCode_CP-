@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0674-longest-continuous-increasing-subsequence](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0735-asteroid-collision](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0735-asteroid-collision) |
 | [0766-toeplitz-matrix](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0766-toeplitz-matrix) |
+| [0812-largest-triangle-area](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0812-largest-triangle-area) |
 | [0832-flipping-an-image](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0867-transpose-matrix) |
 | [0881-boats-to-save-people](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0881-boats-to-save-people) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0728-self-dividing-numbers) |
 | [0793-preimage-size-of-factorial-zeroes-function](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0793-preimage-size-of-factorial-zeroes-function) |
+| [0812-largest-triangle-area](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0836-rectangle-overlap) |
 | [0989-add-to-array-form-of-integer](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0989-add-to-array-form-of-integer) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0149-max-points-on-a-line) |
+| [0812-largest-triangle-area](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0836-rectangle-overlap) |
 ## Bracket Sequences
 |  |
@@ -469,4 +472,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0509-fibonacci-number) |
+## Polygons
+|  |
+| ------- |
+| [0812-largest-triangle-area](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0812-largest-triangle-area) |
 <!---LeetCode Topics End-->
