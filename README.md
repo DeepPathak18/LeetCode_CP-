@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0470-implement-rand10-using-rand7](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0470-implement-rand10-using-rand7) |
 | [0492-construct-the-rectangle](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0492-construct-the-rectangle) |
+| [0504-base-7](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0509-fibonacci-number) |
 | [0598-range-addition-ii](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0598-range-addition-ii) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0504-base-7](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0504-base-7) |
 | [0567-permutation-in-string](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0647-palindromic-substrings) |
 | [0830-positions-of-large-groups](https://github.com/DeepPathak18/LeetCode_CP-/tree/master/0830-positions-of-large-groups) |
